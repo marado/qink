@@ -1,0 +1,33 @@
+BODY {
+    background-color: #000000;
+    font-family: 'Arial', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.teaser {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+}
+
+.title {
+    font-size: 46px;
+    color: #DD0000;
+    text-transform:uppercase;
+}
+
+.qink {
+    font-size: 30px;
+    color: #555555;
+    position: relative;
+    top: 50px;
+}
+
+.footer {
+    color: #333333;
+    position: absolute;
+    bottom: 50px;
+    width: 99%;
+    text-align: center;
+}
