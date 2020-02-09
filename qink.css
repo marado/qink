@@ -24,6 +24,11 @@ BODY {
     top: 50px;
 }
 
+a {
+    color: #999999;
+    font-family: monospace;
+}
+
 .footer {
     color: #333333;
     position: absolute;
